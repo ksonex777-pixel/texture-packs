@@ -50,6 +50,8 @@ interstellar
 space_blue
 space_lightblue
 space_red
+space
+space_orange
 ```
 
 All games on bloxd currently only use the `default` skybox, BloxdHop is the only game that makes use of the other ones.
