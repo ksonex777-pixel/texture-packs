@@ -1,0 +1,4 @@
+# Iron Golem
+`Iron Golem`
+api.attemptSpawnMob("Iron Golem", x, y, z, { name: "Iron Golem" })
+```
